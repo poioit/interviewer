@@ -1,0 +1,9 @@
+1. Find the longest palindromic substring from the given string. No need of DP solution.  
+
+2. You will be given N number of points as an array (CPPoint class). CPPoint class will have x and y coordinate. Find the closest k number of points from the origin.  
+
+3. You are given a linkedlist with next and arbitary pointers. Create a new linkedlist similar to the given linkedlist. You need to create a code for deep copy of a linkedlist.  
+
+4. You will be given a code base with 30 Java files. There will be three milestones. Milestone 1) You need to find a way to map the products to shipping centers. The question was vague and I cant remember it exactly. This mapping can be done by identifying the cost of shipping… 
+Show More
+Milestone 2) Will ask to optimize by reducing the number of unfulfilled orders. The apis will be confusing and you will have two interviews during the coding session.  
