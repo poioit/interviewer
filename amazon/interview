@@ -7,3 +7,8 @@
 4. You will be given a code base with 30 Java files. There will be three milestones. Milestone 1) You need to find a way to map the products to shipping centers. The question was vague and I cant remember it exactly. This mapping can be done by identifying the cost of shipping… 
 Show More
 Milestone 2) Will ask to optimize by reducing the number of unfulfilled orders. The apis will be confusing and you will have two interviews during the coding session.  
+
+
+
+5. Target Sum
+   https://leetcode.com/problems/target-sum/description/
