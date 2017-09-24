@@ -18,3 +18,12 @@ Milestone 2) Will ask to optimize by reducing the number of unfulfilled orders. 
 8. Print valid QWERTY keyboard suggestions.
 9. Write an algorithm for bitmap application.
 10. Serialize and Deserialize an N-ary Tree.  
+11. Find the longest unbroken series of increasing numbers in a list of random numbers', i.e. if given [15, 2, 38, 71, 2, 524, 98], return [2, 38, 71]  
+
+12. Given a matrix of integers, start from any column of the first row. can only move diagonally left, diagonally right and down. find the max sum possible. This is a DP problem. 
+
+13. Group anagrams  
+
+14. Design movie playlist  
+
+15. Design parking lot
