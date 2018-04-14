@@ -10,3 +10,43 @@
 
 1. H-index 2 : use binary search
 https://leetcode.com/problems/h-index-ii/description/
+
+
+2. Merge Interval with inclusion/exclusion
+https://leetcode.com/problems/merge-intervals/description/
+https://leetcode.com/problems/insert-interval/description/
+
+3. Intersection of Sorted Arrays
+http://codercareer.blogspot.tw/2011/11/no-24-intersection-of-sorted-arrays.html
+    a. hash table, O(m + n) time, O(m) space.
+    b. linear search, O(m + n) time, O(1) space.
+        vector<int> findIntersection(vector<int> A, vector<int> B) {
+            vector<int> intersection;
+            int n1 = A.size();
+            int n2 = B.size();
+            int i = 0, j = 0;
+            while (i < n1 && j < n2) {
+                if (A[i] > B[j]) {
+                j++;
+                } else if (B[j] > A[i]) {
+                i++;
+                } else {
+                intersection.push_back(A[i]);
+                i++;
+                j++;
+                }
+            }
+            return intersection;
+        }
+    c. Binary search, O(mlogn) time, O(1) space.
+
+4. 226. Invert Binary Tree
+https://leetcode.com/problems/invert-binary-tree/description/
+
+    TreeNode* invertTree(TreeNode* root) {
+        if (root == NULL) return root;
+        TreeNode* left = root->left;
+        root->left = invertTree(root->right);
+        root->right = invertTree(left);
+        return root;
+    }
