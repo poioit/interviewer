@@ -1,0 +1,12 @@
+1. Phone screen by recruiter
+    a. merge sort avg/worst time (O(NlogN))
+    b. quick sort avg/worst time, and describe worst case scenario. (avg O(NlogN), worst O(N^2))
+    c. hash map worst case search time (O(N))
+    d. balanced tree worst search time (O(N)), and name two (AVL, RB)
+    e. BFS/DFS which is more suitable for unweighted/weighted graph to find shortest path. BFS is suitable for unwieghted graph to find shortest path.
+    f. c/c++ static keyword
+    g. In c++ STL, what will be returned if target not found? Ans: .end(), vec.end(), map.end()…
+    h. 人工算2^24, 用 2^10去推導.
+
+1. H-index 2 : use binary search
+https://leetcode.com/problems/h-index-ii/description/
