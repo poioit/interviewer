@@ -41,3 +41,11 @@ public:
         return false;
     }
 };
+
+/* ============================================================================
+[LeetCode] Graph Valid Tree 图验证树
+
+Given n nodes labeled from 0 to n - 1 and a list of undirected edges (each edge is a pair of nodes),
+write a function to check whether these edges make up a valid tree.
+============================================================================ */
+http://www.cnblogs.com/grandyang/p/5257919.html
