@@ -8,6 +8,8 @@
     g. In c++ STL, what will be returned if target not found? Ans: .end(), vec.end(), map.end()…
     h. 人工算2^24, 用 2^10去推導.
 
+http://www.1point3acres.com/bbs/thread-146076-1-1.html
+
 1. H-index 2 : use binary search
 https://leetcode.com/problems/h-index-ii/description/
 
