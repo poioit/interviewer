@@ -1,7 +1,7 @@
 // This structure might apply to many other backtracking questions,
 // but here I am just going to demonstrate Subsets, Permutations, and Combination Sum.
 // https://leetcode.com/problems/combination-sum/discuss/16496/Accepted-16ms-c++-solution-use-backtracking-easy-understand.
-
+// https://leetcode.com/problems/combination-sum/discuss/16502/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partitioning)
 
 // 40. Combination Sum II
 /*
