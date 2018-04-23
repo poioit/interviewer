@@ -33,7 +33,7 @@ int main() {
     cout << binSearchLo(arr, 3) << endl; // 1
     cout << binSearchLo(arr, 4) << endl; // 2
     cout << binSearchLo(arr, 5) << endl; // 2
-    // lower_bound is <
+    // lower_bound is <=
     // if v exist, return index of v
     // if v not exist, return smallest index of value that > v
     cout << lower_bound(arr.begin(), arr.end(), 3) - arr.begin() << endl; // 1
