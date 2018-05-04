@@ -1,6 +1,7 @@
+A.
 [BS.cpp](BS.cpp)
 
-
-[leetcode original](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
-[Rotated_SortedArray.cpp](rotated_sorted_array.cpp)
-心得
+B.
+   1.[leetcode original](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)\
+   2.[Rotated_SortedArray.cpp](rotated_sorted_array.cpp)\
+   3.心得
