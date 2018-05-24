@@ -52,3 +52,7 @@ https://leetcode.com/problems/invert-binary-tree/description/
         root->right = invertTree(left);
         return root;
     }
+
+1. Room cleaing algo for roomba (DFS?)
+2. guess string ?A?B, https://leetcode.com/problems/bulls-and-cows/
+3. validate and remove binary tree with wrong link, https://leetcode.com/problems/validate-binary-search-tree/description/
