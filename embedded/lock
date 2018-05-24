@@ -1,0 +1,26 @@
+struct semaphore m;
+init_MUTEX(&m);
+DECLARE_MUTEX(m);
+
+mutext_lock(&m);
+//critical section
+mutext_unlock(&m);
+
+
+**************************
+
+sturct semaphore sem;
+sema_init( &sem, 2);
+down(&sem);
+
+//critical section
+up(&sem);
+
+
+***************************
+spinlock_t lock;
+
+spin_lock_init(&lock);
+spin_lock_irqsave(&lock);
+//critical section
+spin_unlock_irqsave(&lock);
