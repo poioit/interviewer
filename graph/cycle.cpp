@@ -49,3 +49,13 @@ Given n nodes labeled from 0 to n - 1 and a list of undirected edges (each edge 
 write a function to check whether these edges make up a valid tree.
 ============================================================================ */
 http://www.cnblogs.com/grandyang/p/5257919.html
+
+/* ======
+ *140. Word Break II
+ * need to return string to memorize
+ * */
+
+/* =====
+ * 329. Longest Increasing Path in a Matrix
+ * need to memorize
+ * /

@@ -1,5 +1,9 @@
-* Binary Search 
-   * [BS.cpp](BS.cpp)
+* Palindromic Substrings
+   * [leetcode link](https://leetcode.com/problems/palindromic-substrings/description/)
+   * [Code] (manacher.cpp)
+   * [Code] (dp.cpp)
+   * Idea:
+      1. use dp and go back from the length of the string (N^2)
 
 * Search in Rotated Sorted Array
    * [leetcode link](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
